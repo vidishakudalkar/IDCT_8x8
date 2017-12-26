@@ -3,6 +3,6 @@ Inverse Discrete Cosine Transform
 
 Includes the input and output images.
 
-Language Used - C++
+Language Used - C++, OpenCV
 
 IDE - Microsoft Visual Studio 2017
